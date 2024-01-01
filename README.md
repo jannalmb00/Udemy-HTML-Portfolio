@@ -1,1 +1,1 @@
-Repository for all my projects in Udemy's Web Development Bootcamp
+Repository for my HTML portfolio projects in Udemy's Web Development Bootcamp
